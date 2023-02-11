@@ -1,8 +1,4 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suyeon%20Github!&fontSize=90" />	
-</div>
-
-### Suyeon Kim 👋
+## Suyeon Kim 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeon801&count_bg=%236476E3&title_bg=%238EA2E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

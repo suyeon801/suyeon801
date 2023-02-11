@@ -4,16 +4,14 @@
 
 <div>
 	<h3>👩‍💻 Career 🎓</h3>
-	- Duksung Women's University, Cryptography Researchers (2021.07 ~ )
-	- Duksung Women's University, Cyber Security (2020.03 ~ )
-	<br>
+	- Duksung Women's University, Cryptography Researchers (2021.07 ~ ) <br>
+	- Duksung Women's University, Cyber Security (2020.03 ~ ) <br>
 </div>
 
 <div>
 	<h3>💻 Project 💻</h3>
-	- Project [ScoreBoard], Frontend (2023.01 ~ )
-	- Project [time_zip], Frontend (2022.08 ~ 2022.08)
-	<br>
+	- Project [ScoreBoard], Frontend (2023.01 ~ ) <br>
+	- Project [time_zip], Frontend (2022.08 ~ 2022.08) <br>
 	
 </div>
 

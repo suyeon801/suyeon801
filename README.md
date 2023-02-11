@@ -2,9 +2,21 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeon801&count_bg=%236476E3&title_bg=%238EA2E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3>Career</h3>
-Duksung Women's University, Cyber Security (2020.03 ~ )
-<br>
+<div>
+	<h3>👩‍💻 Career 🎓</h3>
+	- Duksung Women's University, Cryptography Researchers (2021.07 ~ )
+	- Duksung Women's University, Cyber Security (2020.03 ~ )
+	<br>
+</div>
+
+<div>
+	<h3>💻 Project 💻</h3>
+	- Project [ScoreBoard], Frontend (2023.01 ~ )
+	- Project [time_zip], Frontend (2022.08 ~ 2022.08)
+	<br>
+	
+</div>
+
 <div>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>

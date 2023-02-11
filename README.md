@@ -55,6 +55,6 @@ Duksung Women's University, Cyber Security (2020.03 ~ )
 <br>
 
 <div>
-	<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon801&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=suyeon801&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=suyeon801&theme=swift&&show_icons=true">

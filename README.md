@@ -4,7 +4,7 @@
 
 <div>
 	<h3>👩‍💻 Career 🎓</h3>
-	- Duksung Women's University, Cryptography Researchers (2021.07 ~ ) <br>
+	- Duksung Women's University, Cryptography Researcher (2021.07 ~ ) <br>
 	- Duksung Women's University, Cyber Security (2020.03 ~ ) <br>
 </div>
 

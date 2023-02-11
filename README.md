@@ -5,17 +5,6 @@
 <h3>Career</h3>
 Duksung Women's University, Cyber Security (2020.03 ~ )
 <br>
-
-<h3>Languages</h3>
-<p>
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-377AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
-
-</p>
-
 <div>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -38,6 +27,7 @@ Duksung Women's University, Cyber Security (2020.03 ~ )
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-377AB?style=flat&logo=Python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 	
 </div>
 <br>

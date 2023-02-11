@@ -27,7 +27,7 @@ Duksung Women's University, Cyber Security (2020.03 ~ )
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-377AB?style=flat&logo=Python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/>
 	
 </div>
 <br>

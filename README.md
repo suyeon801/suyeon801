@@ -39,10 +39,10 @@ Duksung Women's University, Cyber Security (2020.03 ~ )
 </div>
 <br>
 
-<div align=center>
+<div>
 	<p>🛠 Tools 🛠</p>
 </div>
-<div align=center>
+<div>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
@@ -53,3 +53,8 @@ Duksung Women's University, Cyber Security (2020.03 ~ )
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
+
+<div>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">

@@ -10,6 +10,7 @@
 
 <div>
 	<h3>💻 Project 💻</h3>
+	- Project [Food_in_eye], Frontend (2023.2 ~ ) <br>
 	- Project [ScoreBoard], Frontend (2023.01 ~ ) <br>
 	- Project [time_zip], Frontend (2022.08 ~ 2022.08) <br>
 	
